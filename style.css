@@ -1,0 +1,47 @@
+body {
+    background-color: #052d73;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    padding-top: 100px;
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: center;
+    }
+nav {
+   background-color: black; 
+   display: flex;
+   position: fixed;
+   left: 0;
+   right: 0;
+   justify-content:space-between;
+   align-items: center;
+   color: white;
+   font-weight: bold;
+   padding: 10px;
+   padding-left: 25px;
+   padding-right: 25px;
+   top: 0;
+}
+a {
+    font-size: x-large;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
+.home-block {
+    background-color: #202224;
+    padding: 15px;
+    border-radius: 20px;
+}
+.home-image {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 50%;
+}
+.projects {
+    background-color: #202224;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
